@@ -1,6 +1,6 @@
 # {Portfolio}
 
-#### Brief description of application, 5/2/2020
+#### The application is a simple portfolio about myself it is easy to navigate through since no authentification is needed.It only has the contact,about and project pages 5/2/2020
 
 #### By **George kamau**
 
