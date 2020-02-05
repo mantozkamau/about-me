@@ -10,7 +10,11 @@ nav ul{
 nav li{
     list-style: none;
 }
-    
+
+nav a{
+    text-decoration: none;
+}
+
 
 nav li a:hover{
     background: blanchedalmond;
