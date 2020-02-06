@@ -1,3 +1,10 @@
+body{
+    background-image: url("https://bit.ly/2Sky4YZ");
+    background-repeat: no-repeat;
+    background-size: cover;  
+    opacity: 0.8;
+   
+}
 header{
     background-color:antiquewhite;
 }
@@ -29,4 +36,12 @@ nav li{
 }
 #project{
     text-align: center;
+    padding-left: 100px;
+}
+p{
+    font-size: x-large;
+}
+#project a{
+    color:blue;
+    font-size: x-large;
 }

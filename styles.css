@@ -2,6 +2,7 @@ body{
  background-image: url('https://bit.ly/2Ot9iEC'); 
  background-repeat: no-repeat;
  background-size: cover;  
+
 }
 header{
     background-color:antiquewhite;
@@ -30,6 +31,6 @@ nav a{
 
 #top{
     text-align: center;
-    font-size: larger;
-    color: black;
+    font-size: xx-large;
+    color:green;
 }
