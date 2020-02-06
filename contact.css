@@ -1,3 +1,8 @@
+body{
+    background-image: url("https://bit.ly/2S20BU3");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 header{
     background-color:antiquewhite;
 }
@@ -13,6 +18,7 @@ nav li a:hover{
 a:hover{
     background: lightgrey;
 }
+
 
 nav a{
     text-decoration: none;
