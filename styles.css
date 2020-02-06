@@ -32,6 +32,8 @@ nav a{
 
 #top{
     text-align: center;
-    font-size: larger;
-    color: darkblue;
+    font-size: xx-large;
+    color:green;
+    padding-top: 100px;
+    text-shadow: black;
 }
