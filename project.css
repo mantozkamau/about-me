@@ -1,3 +1,9 @@
+body{
+    background-image: url('https://bit.ly/375P0rk');
+  background-repeat: no-repeat;
+  background-size:cover;
+  
+}
 header{
     background-color:antiquewhite;
 }
@@ -28,7 +34,9 @@ nav li{
 }
 #project{
     text-align: center;
+    font-size: x-large;
 }
 p{
-    font-size: large;
+    font-size: x-large;
+    color:black;
 }
