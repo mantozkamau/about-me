@@ -1,4 +1,4 @@
-# {Portfolio}
+# Portfolio
 
 #### The application is a simple portfolio about myself it is easy to navigate through since no authentification is needed.It only has the contact,about and project pages 5/2/2020
 
@@ -6,6 +6,7 @@
 
 ## Description
 This project is a portfolio,the project mainly have my personal information which include education backgroud,my hobbies,contacts and projects it is more of a resume it allows any potential employer or client to access my information before they have a face to face interview
+find the link to the project here https://mantozkamau.github.io/portfolio/
 
 ## Setup/Installation Requirements
 * clone this repo
