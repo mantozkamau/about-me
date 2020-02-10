@@ -1,6 +1,7 @@
-# {Portfolio}
+# Portfolio
 
 #### The application is a simple portfolio about myself it is easy to navigate through since no authentification is needed.It only has the contact,about and project pages 5/2/2020
+https://mantozkamau.github.io/portfolio/
 
 #### By **George kamau**
 
